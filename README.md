@@ -1,7 +1,8 @@
 # Deep Learning Lab: Image Classification
 
 ## Objective
-The primary goal of this lab was to develop familiarity with the PyTorch library for constructing and evaluating neural network architectures. The task involved building models such as Convolutional Neural Networks (CNNs), Faster R-CNN, and Vision Transformers (ViT) to classify images from the MNIST dataset. 
+The primary goal of this lab was to develop a deeper understanding of the PyTorch library by constructing and evaluating various neural network architectures. This included implementing models such as Convolutional Neural Networks (CNNs), Faster R-CNN, and Vision Transformers (ViT) for the task of classifying images from the MNIST dataset.
+
 ---
 
 ## Summary of Work
